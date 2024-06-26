@@ -1,0 +1,1 @@
+// Q5 :  Create a function that takes a LinkedList and deletes the middle node in it and returns it
